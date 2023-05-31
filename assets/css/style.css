@@ -1,0 +1,9 @@
+.nav-link{
+    color: #343b6f;
+}
+.nav-link.active{
+    color: #367be3 !important;
+}
+/* .app-none{
+    appearance: none;
+} */
